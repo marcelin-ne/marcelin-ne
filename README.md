@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelin-ne&label=Profile%20views&color=0e75b6&style=flat" alt="marcelin-ne" /> </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316xusszopslrdckwwqhw5iao46a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 <h3 align="left">Languages and Tools:</h3>
